@@ -1,6 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
+
   
 
 ### <div align="center">I'm Shreya, an aspiring software engineer and web developer👨‍💻 🚀</div>  
